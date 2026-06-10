@@ -43,25 +43,25 @@ export const skills = [
     title: 'Frontend Development',
     icon: FaReact,
     description: 'Building responsive and interactive user interfaces with modern frameworks.',
-    tags: ['React', 'JavaScript',  'TypeScript', 'Tailwind CSS']
+    tags: ['HTML', 'CSS', 'JavaScript', 'React']
   },
   {
     title: 'Backend Development',
     icon: FaServer,
     description: 'Creating robust server-side applications and RESTful APIs.',
-    tags: ['Node.js', 'Python', 'C# and .NET']
+    tags: ['Node.js', 'Python', ]
   },
   {
     title: 'Database Management',
     icon: FaDatabase,
     description: 'Designing and optimizing databases for performance and scalability.',
-    tags: ['MongoDB', 'Oracle', 'MySQL', 'Firebase']
+    tags: ['MongoDB','MySQL']
   },
   {
     title: 'Mobile Development',
     icon: FaMobileAlt,
     description: 'Building cross-platform mobile applications with modern tools.',
-    tags: ['React Native', "Flutter"]
+    tags: ['React Native']
   },
   {
     title: 'Cloud & DevOps',
