@@ -131,8 +131,8 @@ export const projects = [
     image: projectImg6,
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     icons: [FaReact, FaNodeJs, FaDatabase],
-    demo: "#",
-    code: "#",
+    demo:"#",
+    code: "https://github.com/Vishnupriyayuvaraj/portfolio",
   },
   
 ];
