@@ -43,7 +43,7 @@ export const skills = [
     title: 'Frontend Development',
     icon: FaReact,
     description: 'Building responsive and interactive user interfaces with modern frameworks.',
-    tags: ['HTML', 'CSS', 'JavaScript', 'React']
+    tags: ['HTML', 'CSS', 'JavaScript', 'React.js']
   },
   {
     title: 'Backend Development',
