@@ -7,17 +7,18 @@
   font-family: Saira, sans-serif;
 }
 
-@theme{
+
 @theme {
-  --color-dark-100:#ffffff;
-  --color-dark-200:#f9f9f9;
-  --color-dark-300:#f0f0f0;
-  --color-dark-400:#e5e5e5;
-  --color-purple:#7C3AED;
-  --color-pink:#EC4899;
-  --color-blue:#3B82f6;
+  --color-dark-100: #ffffff;
+  --color-dark-200: #f9f9f9;
+  --color-dark-300: #f0f0f0;
+  --color-dark-400: #e5e5e5;
+  --color-purple: #7C3AED;
+  --color-pink: #EC4899;
+  --color-blue: #3B82F6;
 }
-}
+
+
 
 
 .typewriter {
