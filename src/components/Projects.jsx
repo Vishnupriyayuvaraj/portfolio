@@ -11,15 +11,15 @@ const Projects = () => {
       transition={{ duration: 1, ease: 'easeOut' }}
       viewport={{ once: false, amount: 0.2 }}
       id='projects'
-      className='py-20 bg-dark-200'
+      className='py-20 bg-white'
     >
       <div className='container mx-auto px-6'>
         {/* Heading */}
-        <h2 className='text-3xl font-bold text-center mb-4'>
-          My <span className='text-purple'>Projects</span>
+        <h2 className='text-3xl font-bold text-center mb-4 text-gray-900'>
+          My <span className='text-purple-600'>Projects</span>
         </h2>
 
-        <p className='text-gray-400 text-center max-w-2xl mx-auto mb-16'>
+        <p className='text-gray-600 text-center max-w-2xl mx-auto mb-16'>
           A selection of my recent work
         </p>
 
